@@ -4,6 +4,34 @@
 <p align="center"><em>Senior Web Developer | PHP, JS, C++ (ESP32) Enthusiast</em></p>
 <p align="center"><b>Code to make my live easier</b></p>
 
+<p align="center">
+  <!-- Custom Skill Badges -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony"/>
+  <img src="https://img.shields.io/badge/Yii2-3C3C3C?style=flat-square&logo=yii&logoColor=green" alt="Yii2"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://komarev.com/ghpvc/?username=lshaf&style=flat-square&color=blue" alt="Visitor Badge"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lshaf&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshaf&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=lshaf&theme=tokyonight" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <!-- Trophy Board -->
+  <img src="https://github-profile-trophy.vercel.app/?username=lshaf&theme=tokyonight&column=7" alt="Trophies"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -14,16 +42,16 @@
 
 ### 🔥 What I'm Working On
 
-- **ESP32 Pentesting**: Contributor to [Bruce firmware](https://github.com/bruce-firmware/bruce), focusing on pentesting tools for ESP32 microcontrollers.
-- **Web Projects**: Building scalable apps with PHP (Symfony/Yii2) and modern JS (VueJS, NextJS).
-- **Always learning**: From web stacks to embedded firmware, I enjoy pushing boundaries.
+- **ESP32 Pentesting:** Contributor to [Bruce firmware](https://github.com/bruce-firmware/bruce), focusing on pentesting tools for ESP32 microcontrollers.
+- **Web Projects:** Building scalable apps with PHP (Symfony/Yii2) and modern JS (VueJS, NextJS).
+- **Always learning:** From web stacks to embedded firmware, I enjoy pushing boundaries.
 
 ### 🛠️ Key Skills
 
-- **Back-end**: PHP (Symfony, Yii2), REST APIs
-- **Front-end**: VueJS, NextJS, Node.js
-- **Firmware**: C++ for ESP32, IoT hardware
-- **Security**: Penetration testing, firmware hacking
+- **Back-end:** PHP (Symfony, Yii2), REST APIs
+- **Front-end:** VueJS, NextJS, Node.js
+- **Firmware:** C++ for ESP32, IoT hardware
+- **Security:** Penetration testing, firmware hacking
 
 ### 📌 Featured Projects
 
