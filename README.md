@@ -53,6 +53,7 @@
 - [github-telegram](https://github.com/lshaf/github-telegram): GitHub & Telegram integration bot.
 - [m5stick-security](https://github.com/lshaf/m5stick-security): ESP32-based security solutions and tools.
 - [funman-voyager](https://github.com/lshaf/funman-voyager) & [funman-magidus](https://github.com/lshaf/funman-magidus): Web3 projects on the WAX blockchain.
+- [puteros](https://github.com/lshaf/puteros): ESP32-based for M5Cardputer product, aiming for easy to use daily tool
 
 ### 💡 Fun Fact
 
