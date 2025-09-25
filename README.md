@@ -27,11 +27,6 @@
   <img src="https://streak-stats.demolab.com?user=lshaf&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
-<p align="center">
-  <!-- Trophy Board -->
-  <img src="https://github-profile-trophy.vercel.app/?username=lshaf&theme=tokyonight&column=7" alt="Trophies"/>
-</p>
-
 ---
 
 ### 🚀 About Me
