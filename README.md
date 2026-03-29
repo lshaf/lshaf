@@ -37,7 +37,7 @@
 
 ### 🔥 What I'm Working On
 
-- **ESP32 Pentesting:** Contributor to [Bruce firmware](https://github.com/bruce-firmware/bruce), focusing on pentesting tools for ESP32 microcontrollers.
+- **ESP32 Pentesting:** Creating esp32 firmware across devices called [UniGeek](https://github.com/lshaf/unigeek), focusing on pentesting tools for ESP32 microcontrollers.
 - **Web Projects:** Building scalable apps with PHP (Symfony/Yii2) and modern JS (VueJS, NextJS).
 - **Always learning:** From web stacks to embedded firmware, I enjoy pushing boundaries.
 
